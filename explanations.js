@@ -1,3 +1,14 @@
+// if / else
+if (true) {
+    alert('male');
+};
+
+if ('male' === 'male') {
+    alert('male');
+};
+
+
+
 // Function
 function whatIsMyFavColor () {
     
