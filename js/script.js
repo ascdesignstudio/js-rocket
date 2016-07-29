@@ -20,9 +20,9 @@ var car = {
         if (isOn == true) {
             this.isTurnedOn = true;                    
         } else {
-            this.isTurnedOn = false;                    
+            this.isTurnedOn = false;           
         }
     }
 }
-
+// console.log('Hello there friends!');
 // console.log('Hello there friends!');
