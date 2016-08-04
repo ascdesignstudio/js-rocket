@@ -36,7 +36,6 @@ var changeState = function (state) {
 			} else {
 				// do something else
 				changeState(5); // Oh no!
-
 			};
 		}, 2000); 
 	};
